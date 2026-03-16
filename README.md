@@ -1,2 +1,9 @@
-# Project---Global-Superstore-Sales---PowerBI
-The dataset stores global sales information of a company called Superstore. The company operates in multiple markets across different continents. As the company is currently in a strong growth phase, it aims to increase revenue in these markets in order to expand its market share
+### Superstore-Sales-And-Expansion-Strategy-Analysis----PowerBI---
+## I. Introduction
+# 1. Inrtoduction to Dataset
+  Dataset: Global Superstore Sales
+  Dataset stores sales information of some products of a comapany worldwide 
+  The dataset consists of three tables:
+    Orders – contains transaction details.
+    People – includes information about sales representatives in each region.
+    Returns – records the transactions that were returned.
