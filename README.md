@@ -52,7 +52,7 @@ Here is 4 steps of design thinking
 - Presentation, layout of each part of the report(size, chart arrangement...)
 - Choose the color of the report
 - Self-review and edit my report
-- 
+
 ## III. Visualization
 
 ### Overview
